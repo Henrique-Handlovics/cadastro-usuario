@@ -13,7 +13,7 @@ function Home() {
   async function createUsers() {
     await api.post('/usuarios', {
       nome: inputNome.current.value,
-      idade: inputIdade.current.value,
+      idade: Number(inputIdade.current.value),
       email: inputEmail.current.value
     })
 
