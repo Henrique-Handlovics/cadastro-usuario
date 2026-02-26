@@ -1,16 +1,42 @@
-# React + Vite
+👤 Cadastro de Usuário (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo de cadastro de usuários desenvolvido com React e Vite, permitindo a criação e visualização de perfis em uma interface simples e funcional.
 
-Currently, two official plugins are available:
+<hr>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Sobre o Projeto
 
-## React Compiler
+Projeto criado para praticar desenvolvimento Front‑end moderno com React e Vite. A aplicação apresenta:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Formulário de cadastro com validação básica
 
-## Expanding the ESLint configuration
+Listagem de usuários cadastrados
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Uso de componentes e estado com React
+
+Desenvolvido como prática aplicada a partir dos ensinamentos da DevClub.
+
+<hr>
+
+🛠️ Tecnologias
+
+React.js
+
+Vite
+
+JavaScript (ES6+)
+
+CSS3
+
+<hr>
+
+🎓 Créditos
+
+Este projeto foi desenvolvido com base nos ensinamentos da DevClub, aplicados para consolidar conhecimentos em React com Vite e manipulação de estados.
+
+<hr>
+
+👨‍💻 Autor
+
+Henrique Handlovics
+🔗 https://github.com/Henrique-Handlovics
